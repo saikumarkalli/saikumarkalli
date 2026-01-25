@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **.Net & Azure Cloud**
+- 🤝 I’m looking for help with **Cloud Based Applications**
 
-- 📫 How to reach me **leelasaikumar@gmail.com**
+- 💬 Ask me about **.Net & SQL**
+
+- 📫 How to reach me **leelasaikumarkalli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
