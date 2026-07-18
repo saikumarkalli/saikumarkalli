@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=4FCDBB&center=true&vCenter=true&width=650&lines=whoami+%3E+full-stack+.net+developer;cat+about.md+%3E+audit+automation+%2B+workforce+mgmt;status+%3A+open+to+cloud+collaborations" alt="typing banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Sai%20Kumar%20KALLI&fontSize=42&fontColor=4FCDBB&animation=fadeIn&fontAlignY=35&desc=.NET%20Core%20%7C%20Azure%20%7C%20Angular%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=16&descColor=E0B454" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=4FCDBB&center=true&vCenter=true&width=650&lines=whoami+%3E+full-stack+.net+developer;cat+about.md+%3E+audit+automation+%2B+workforce+mgmt;status+%3A+open+to+cloud+collaborations" alt="typing banner" />
+
+<br><br>
+
+![Experience](https://img.shields.io/badge/Experience-5%2B_Years-0D1117?style=for-the-badge&labelColor=161B22&color=4FCDBB)
+![Focus](https://img.shields.io/badge/Focus-Backend_%26_Cloud-0D1117?style=for-the-badge&labelColor=161B22&color=E0B454)
+![Open To](https://img.shields.io/badge/Open_To-Collaboration-0D1117?style=for-the-badge&labelColor=161B22&color=8C7FF0)
+
+<img src="https://komarev.com/ghpvc/?username=saikumarkalli&label=Profile+Views&color=4FCDBB&style=for-the-badge&labelColor=161B22" />
 
 </div>
 
 <br>
-
-# Sai Kumar KALLI <sub><sup>/ engineer, architect, builder</sup></sub>
 
 **.NET Core · Azure · Angular** — full-stack developer, 5+ years delivering scalable **Audit Automation** and **Workforce Management** platforms used in enterprise environments.
 
@@ -87,8 +95,20 @@ Learning LLD tracking website.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarkalli&bg_color=12151C&color=4FCDBB&line=4FCDBB&point=E0B454&area_color=0e4429&area=true&hide_border=true&custom_title=Contribution+Graph" />
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saikumarkalli&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=8&column=6" />
+</div>
+
 <br>
 
+## `04` CONNECT
+
 <div align="center">
-<sub>© saikumarkalli &nbsp;·&nbsp; <a href="https://linkedin.com/in/saikumarkalli">linkedin</a> &nbsp;·&nbsp; <a href="mailto:leelasaikumarkalli@gmail.com">mail</a></sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22)](https://linkedin.com/in/saikumarkalli)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22)](mailto:leelasaikumarkalli@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E8E6F0&labelColor=161B22)](https://github.com/saikumarkalli)
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" />
