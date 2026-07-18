@@ -20,6 +20,8 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
+
 ## `01` STACK.md
 
 **Backend & languages**
@@ -39,6 +41,8 @@
 ![Database Skills](https://skillicons.dev/icons?i=postgres,redis&theme=dark)
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
 
 ## `02` DEPLOYED_SERVICES
 
@@ -76,6 +80,8 @@ Learning LLD tracking website.
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
+
 ## `03` METRICS
 
 <div align="center">
@@ -101,7 +107,21 @@ Learning LLD tracking website.
 
 <br>
 
-## `04` CONNECT
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
+
+## `04` CONTRIBUTION_SNAKE
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/saikumarkalli/saikumarkalli/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<sub>↑ snake eats through your commit graph — refreshed every 6 hours by <code>.github/workflows/snake.yml</code></sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
+
+## `05` CONNECT
 
 <div align="center">
 
