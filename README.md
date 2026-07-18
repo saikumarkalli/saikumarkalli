@@ -94,46 +94,7 @@ Learning LLD tracking website.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
 
-## `03` METRICS
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saikumarkalli&show_icons=true&theme=dark&bg_color=12151C&title_color=4FCDBB&icon_color=E0B454&text_color=E8E6F0&border_color=232833" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarkalli&layout=compact&theme=dark&bg_color=12151C&title_color=4FCDBB&text_color=E8E6F0&border_color=232833" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarkalli&theme=dark&background=12151C&border=232833&stroke=232833&ring=4FCDBB&fire=E0B454&currStreakLabel=4FCDBB" />
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<sub>↑ lines of code, commit-time graph — refreshed daily by <code>.github/workflows/metrics.yml</code></sub>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarkalli&bg_color=12151C&color=4FCDBB&line=4FCDBB&point=E0B454&area_color=0e4429&area=true&hide_border=true&custom_title=Contribution+Graph" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saikumarkalli&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=8&column=6" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
-
-## `04` CONTRIBUTION_SNAKE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/saikumarkalli/saikumarkalli/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<sub>↑ snake eats through your commit graph — refreshed every 6 hours by <code>.github/workflows/snake.yml</code></sub>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
-
-## `05` CONNECT
+## `03` CONNECT
 
 <div align="center">
 
