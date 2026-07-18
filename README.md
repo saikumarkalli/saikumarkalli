@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Sai%20Kumar%20KALLI&fontSize=42&fontColor=4FCDBB&animation=fadeIn&fontAlignY=35&desc=.NET%20Core%20%7C%20Azure%20%7C%20Angular%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=16&descColor=E0B454" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=160&section=header&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=4FCDBB&center=true&vCenter=true&width=650&lines=whoami+%3E+full-stack+.net+developer;cat+about.md+%3E+audit+automation+%2B+workforce+mgmt;status+%3A+open+to+cloud+collaborations" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=100000&color=4FCDBB&center=true&vCenter=true&width=650&repeat=false&lines=Sai+Kumar+KALLI" alt="name reveal" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=E0B454&center=true&vCenter=true&width=650&lines=full-stack+.net+developer;azure+%7C+angular+%7C+cloud+engineer;open+to+cloud+collaborations" alt="role ticker" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=8C7FF0&center=true&vCenter=true&width=650&lines=whoami+%3E+audit+automation+%2B+workforce+mgmt+platforms" alt="context line" />
 
 <br><br>
 
