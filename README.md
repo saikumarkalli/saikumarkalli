@@ -14,6 +14,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=232833&bgcolor=12151C&title_color=4FCDBB&text_color=E8E6F0" />
+</div>
+
 <br>
 
 **.NET Core · Azure · Angular** — full-stack developer, 5+ years delivering scalable **Audit Automation** and **Workforce Management** platforms used in enterprise environments.
@@ -23,6 +27,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
 
 ## `01` STACK.md
+
+<div align="center">
 
 **Backend & languages**
 
@@ -39,6 +45,8 @@
 **Databases & caching**
 
 ![Database Skills](https://skillicons.dev/icons?i=postgres,redis&theme=dark)
+
+</div>
 
 <br>
 
