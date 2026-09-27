@@ -104,4 +104,11 @@ Learning LLD tracking website.
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,10,15&animation=fadeIn" width="100%" />
+
+## `04` METRICS
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" />
